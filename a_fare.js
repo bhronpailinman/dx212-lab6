@@ -13,4 +13,4 @@ const calcFare = (distanceKm) => {
 
 console.log(calcFare(1.5));
 console.log(calcFare(2));
-console.log(calcFare(7.2));
+console.log(calcFare(7.2)); // 10 + (8 - 2) * 2 = 22
