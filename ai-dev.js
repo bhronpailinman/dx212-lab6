@@ -26,3 +26,5 @@ testCases.forEach(({ distance, expectedFare }) => {
 });
 
 console.log("ทดสอบ calcFare ผ่านทุกกรณี");
+
+// ทดสอบฟังก์ชันคำนวณค่าโดยสาร
